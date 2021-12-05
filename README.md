@@ -12,4 +12,4 @@ Hi, I’m @maximilian-nowak
 
 I have a background in software development and lately became more and more interested in the topic of data science.
 
-[Click here to visit my portfolio](https://github.com/maximilian-nowak/Portfolio)
+Check out my [portfolio](https://github.com/maximilian-nowak/Portfolio)
