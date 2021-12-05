@@ -9,4 +9,7 @@ maximilian-nowak/maximilian-nowak is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 Hi, welcome to my github page.
-I have a background in software development and currently I study to become a data scientist.
+
+I have a background in software development and lately have been more and more interested in a data scientist career.
+
+[Click here to visit my portfolio](https://github.com/maximilian-nowak/Portfolio)
