@@ -8,7 +8,7 @@
 maximilian-nowak/maximilian-nowak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-👋 Hi, I’m @maximilian-nowak
+Hi, I’m @maximilian-nowak
 
 I have a background in software development and lately have been more and more interested in a data scientist career.
 
