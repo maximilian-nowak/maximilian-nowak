@@ -10,6 +10,6 @@ You can click the Preview link to take a look at your changes.
 --->
 Hi, I’m @maximilian-nowak
 
-I have a background in software development and lately have been more and more interested in a data scientist career.
+I have a background in software development and lately became more and more interested in the topic of data science.
 
 [Click here to visit my portfolio](https://github.com/maximilian-nowak/Portfolio)
